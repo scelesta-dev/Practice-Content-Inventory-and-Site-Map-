@@ -27,10 +27,10 @@ The audience is students, faculty, staff, and nearby residents.
   - Key content: Volunteer schedules, participation details, workshop topics, and upcoming activities
 - Visit and Accessibility
   - Purpose: Help visitors plan their visit and provide location details, gardening hours, and accessibility information. 
-  - Key content: Garden location, operating hours, parking
+  - Key content: Garden location, operating hours, parking, raised beds, shaded seating
 - Contact
-  - Purpose:
-  - Key content:
+  - Purpose: Contact garden organizers to express interest in visiting, attending workshops, or volunteering. 
+  - Key content: Contact information, interest form, general inquiries, and participation requests. 
 
 ## Content Risks to Resolve
 
