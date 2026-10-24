@@ -14,4 +14,4 @@
 | C10 | Location and transportation | Assist visitors finding the garden | Text | Organizers | Missing | Details unconfirmed |
 | C11 | Contact Information | Help visitors contact organizers | Text | Organizers | Missing | Contact info needed |
 | C12 | Interest form | Collect visitor participation form | Form | Organizers | Missing | Form processing |
-| C12 | Nav menu| Help visitors access pages | Links | Web developer | Missing | Test accessibility |
+| C13 | Nav menu| Help visitors access pages | Links | Web developer | Missing | Test accessibility |
