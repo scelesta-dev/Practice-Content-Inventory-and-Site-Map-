@@ -1,34 +1,36 @@
-# Site Map Template
+# Site Map Template: Polytechnic Community garden Website
 
-## Site Purpose
+## Site Purpose: This website will provide information on garden hours, volunteer opportunities, workshops, and accessibility. The goal is to boost community engagement and make information easier to access. 
 
 
-## Primary Audience
+## Primary Audience: The audience is students, faculty, staff, and nearby residents. 
 
 
 ## Primary User Tasks
 
-1.
-2.
-3.
+1. Find garden hours
+2. Learn about workshops
+3. Explore volunteer opportunities
+4. View accessibility information
+5. Contact garden organizers
 
 ## Proposed Site Map
 
 - Home
   - Purpose:
   - Key content:
-- Page 2
+- Volunteer Days
   - Purpose:
   - Key content:
-- Page 3
+- visit and Accessibility
   - Purpose:
   - Key content:
-- Page 4
+- Contact
   - Purpose:
   - Key content:
 
 ## Content Risks to Resolve
 
-1.
-2.
-3.
+1. Ensuring garden hours and workshops schedules are accurate
+2. Image permissions are granted
+3. Accessibility information is verified
